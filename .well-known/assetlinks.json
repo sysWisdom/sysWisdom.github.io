@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.syswisdom.surfguideapp",
+      "sha256_cert_fingerprints": [
+        "F6:3F:84:A0:E0:AC:96:92:CD:D2:C2:EF:4B:DF:0A:4B:B4:0E:41:BB:4E:B9:F5:D5:A7:D4:8F:B8:98:04:C0:7A"
+      ]
+    }
+  }
+]
